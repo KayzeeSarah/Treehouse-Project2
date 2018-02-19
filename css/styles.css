@@ -169,7 +169,7 @@ main {
 
 footer {
   width: 100%;
-  min-height: calc(100vh-89px);
+  min-height: 30px;
   padding: 20px;
   background: #ccc;
 }
